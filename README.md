@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
-<h3 align="center">Pursuing B.Tech in Computer Science</h3>
+<h3 align="center">Pursuing B.Tech?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarav568&label=Profile%20views&color=0e75b6&style=flat" alt="aarav568" /> </p>
 
