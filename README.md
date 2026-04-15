@@ -3,12 +3,6 @@
 
 [![An image of @lopster568's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lopster568)](https://holopin.io/@lopster568)
 
-## About Me
-- CTO@[imcoded](imcoded.com)
-- ⚒️ I drive innovation and scalability with major technologies
-- 🌐 Web3 Visionary
-- 😌 I help organizations to move forward
-
 <!-- ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lopster568) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan-singh568) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/roshs568) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lopster568) 
 -->
