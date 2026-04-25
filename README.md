@@ -13,11 +13,11 @@ Local-first code-intelligence agent. AST-aware vector index of ~30K chunks acros
 ### Upstream
 
 **[CNCF Jaeger](https://github.com/jaegertracing/jaeger/pulls?q=author%3Alopster568+is%3Amerged)**
-7 merged PRs on `jaegermcp`, the MCP server that exposes Jaeger to LLM clients. Shipped: `get_service_dependencies` tool, end-to-end tracing integration tests, ADR-002 sync, MCP SDK client integration tests, LLM system-prompt instructions, search-trace summary improvements.
+Work on `jaegermcp`, the MCP server that exposes Jaeger to LLM clients. Tooling, integration tests, ADR sync, system-prompt instructions for LLM clients.
 
 **[Unikraft / kraftkit](https://github.com/unikraft/kraftkit/pulls?q=author%3Alopster568+is%3Amerged)**
-2 merged PRs. Error-handling refactor across the build package. Makefile lint target fix.
+Error-handling refactor across the build package. Makefile lint target fix.
 
 ---
 
-[roshansingh.systems](https://roshansingh.systems) · [LinkedIn](https://linkedin.com/in/roshan-singh568)
+[roshansingh.systems](https://roshansingh.systems) · [LinkedIn](https://linkedin.com/in/roshan-singh568) · [Email](mailto:rosh.s568@gmail.com) · [Resume](https://drive.usercontent.google.com/download?id=1DxoaOIs-vZXXYZtyCL0hKjhftYYpVNUu&export=download)
