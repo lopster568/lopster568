@@ -18,10 +18,6 @@ Currently shipping [HydraDNS](https://github.com/hydradns/hydradns), an open-sou
 
 **[Unikraft / kraftkit](https://github.com/unikraft/kraftkit/pulls?q=author%3Alopster568+is%3Amerged)** — Error-handling refactor across the build package; Makefile lint target fix.
 
-### Maintaining
-
-**[hostplane](https://github.com/lopster568/hostplane)** — Go control plane behind a small managed-WordPress hosting service on a Proxmox homelab. Three paying customers in production. Maintenance mode while HydraDNS gets the focus.
-
 ---
 
 [roshansingh.systems](https://roshansingh.systems) · [LinkedIn](https://linkedin.com/in/roshan-singh568)
