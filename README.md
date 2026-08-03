@@ -15,6 +15,9 @@ Local-first code-intelligence agent. AST-aware vector index of ~30K chunks acros
 **[CNCF Jaeger](https://github.com/jaegertracing/jaeger/pulls?q=author%3Alopster568+is%3Amerged)**
 Work on `jaegermcp`, the MCP server that exposes Jaeger to LLM clients. Tooling, integration tests, ADR sync, system-prompt instructions for LLM clients.
 
+**[jaeger-mcp-bench](https://github.com/lopster568/jaeger-mcp-bench)**
+A/B benchmark of MCP tool output formats for Jaeger SPM metrics. 72 randomized trials across Claude and Gemini, committed raw dumps and run manifests. Built after the maintainer asked for benchmarks over opinion on jaeger#8409.
+
 **[Unikraft / kraftkit](https://github.com/unikraft/kraftkit/pulls?q=author%3Alopster568+is%3Amerged)**
 Error-handling refactor across the build package. Makefile lint target fix.
 
